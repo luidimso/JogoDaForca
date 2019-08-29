@@ -1,0 +1,24 @@
+{
+  "name": "jogodaforca",
+  "version": "1.0.0",
+  "description": "Trabalho realizado durante a disciplina de laboratório OO do Bacharelado em Sistemas de Informação do IFF Campos Centro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luidimso/JogoDaForca.git"
+  },
+  "keywords": [
+    "Jogo",
+    "da",
+    "Forca"
+  ],
+  "author": "Luidi Matheus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luidimso/JogoDaForca/issues"
+  },
+  "homepage": "https://github.com/luidimso/JogoDaForca#readme"
+}
